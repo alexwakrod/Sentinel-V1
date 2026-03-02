@@ -1,0 +1,12 @@
+# Core Discord Interface
+discord.py>=2.3.0
+
+# Asynchronous HTTP Requests (The "Anchor" Fallback & Binance API)
+aiohttp>=3.9.0
+
+# Database Connection (SQL Server)
+pyodbc>=5.0.0
+
+# Environment Variable Management (For the .env file)
+python-dotenv>=1.0.0
+
